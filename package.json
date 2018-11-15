@@ -1,0 +1,15 @@
+{
+  "name": "moodvie",
+  "version": "1.0.0",
+  "description": "This application will help users pick a movie.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imdb-api": "^4.0.2"
+  },
+  "devDependencies": {}
+}
